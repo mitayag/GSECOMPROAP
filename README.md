@@ -3,7 +3,7 @@
 Welcome to the **Advanced Programming Mentorship Program**!  
 This course extends the study of basic programming principles by exploring advanced concepts in program design, implementation, and testing within the framework of object-oriented programming (OOP).  
 
-Languages covered include **Java, Python, C++, C#, and Visual Basic .NET** (students may choose their preferred primary language for assignments and projects).  
+Languages covered include **Python** (students may choose their preferred primary language for assignments and projects).  
 
 ---
 
@@ -81,7 +81,7 @@ advanced-programming-mentorship/
 ---
 
 ## 🛠️ Requirements
-- Install one or more OOP languages (Java, Python, C++, C#, VB.NET)  
+- Install Python
 - IDE of choice (VS Code, IntelliJ, PyCharm, Eclipse, Visual Studio)  
 - Git for version control  
 - Unit testing framework (JUnit, PyTest, NUnit, etc.)  
